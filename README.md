@@ -2,7 +2,6 @@
 
 An intelligent multi-agent system that automates literature reviews using **Agentic AI, Retrieval-Augmented Generation (RAG), and Reinforcement Learning**.
 
-🔗 Based on research: :contentReference[oaicite:0]{index=0}
 
 ---
 
